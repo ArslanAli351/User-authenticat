@@ -1,0 +1,26 @@
+#all_Product {
+  border: 1px solid black;
+  width: 96%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  padding: 20px;
+}
+#all_Product button{
+  border: 10px solid black;
+  /* width: 96%; */
+
+}
+.main {
+  padding: 10px;
+  width: 30%;
+  border: 1px solid black;
+}
+
+.Img_div img {
+  border: 2px solid rgb(30, 7, 204);
+  width: 100%;
+  height: 150px;
+  /* object-fit: cover; */
+}
